@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600&display=swap');
+
+.stApp {
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.prediction-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+    text-align: center;
+    border-top: 5px solid #1E3A8A;
+}
+
+.model-box {
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #e1e4e8;
+}
